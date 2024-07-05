@@ -1,4 +1,4 @@
-release_repo_url: https://github.com/ika-rwth-aachen/mqtt_client-release.git
+release_repo_url: git@github.com:revyos-ros/mqtt_client-release.git
 tracks:
   humble:
     actions:
